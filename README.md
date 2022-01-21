@@ -1,4 +1,4 @@
-# Simple Calculator
+# Calculator React.js
 
 This is a simple calculator app built using Tailwind CSS and React.js.
 
